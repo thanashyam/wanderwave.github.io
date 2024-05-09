@@ -1,3 +1,7 @@
+---
+title: Frequently Asked Questions
+---
+
 # What sets you apart from competitors?
 - Unique Customization: We are the pioneer platform globally that enables travelers to create, tailor, and modify their itineraries based on personal interests.
 - Trusted Quality: We prioritize authenticity, crafting vacations that resonate with our travelers’ desires. You can see for yourself the high praise from travelers on our Facebook page, reflecting our rigorous 9-point quality check of partners, which has garnered us over 850 five-star reviews.
@@ -34,3 +38,6 @@ We partner with the world’s top tech companies to get you real time pricing. U
 
 # What is your price match guarantee and how does it apply?
 We work with suppliers from all across the world to get you the best possible pricing at most of the time. If you find a a lower price on the internet from any other online travel agent for the same inclusions on the same travel dates, we will match the quote you find and also waive our planning and concierge fee for you! Offer applicable against published rates of other online travel agents and not on off-line quotations / promo code applied rates.
+
+# How can I book my personalized travel itinerary with WanderWave?
+To book your travel with WanderWave, simply initiate a chat with one of our support agents through our website’s conversation feature. Our dedicated agents are equipped to personalize your itinerary to match your unique travel preferences and answer any questions you may have during the booking process. They will guide you step-by-step, ensuring that all aspects of your trip are tailored to your satisfaction and seamlessly arranged on your behalf.
