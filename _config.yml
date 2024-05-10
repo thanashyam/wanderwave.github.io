@@ -1,3 +1,5 @@
-theme: cayman
-title: WanderWave FAQs
-description: Frequently asked questions
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: WanderWave
+description: "WanderWave, a trailblazer in the travel industry, offers a unique approach to vacation planning with its personalized, customer-centric travel packages"
